@@ -38,11 +38,11 @@ _R_: Porque SwissProt posee una base de datos muy pobre.
 
 ¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Redraw para usar reads en vez de proporciones (raw)) 
 
-_R_:
+_R_: Se secuenciaron 26.387 secuencias de Proteobacterias.
 
 ¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?
 
-_R_:
+_R_:se encontraron 77 secuencias de salmonella.
 
 
 http://metagenomics.anl.gov/mgmain.html?mgpage=analysis
