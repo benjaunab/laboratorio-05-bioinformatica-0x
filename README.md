@@ -8,7 +8,7 @@ _R_: 120,671 secuencias.
 
 ¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos?
 
-_R_: 
+_R_: La plataforma de secuenciación que posiblemente ocuparon fue la de illumina usando la estrategia de secuenciacion shotgun luego se utilizo la herramienta DRISEE.   
 
 ¿Cuántas secuencias pasaron el control de calidad? ¿A qué crees que se refiere esto?
 
@@ -45,6 +45,3 @@ _R_: Se secuenciaron 26.387 secuencias de Proteobacterias.
 _R_:se encontraron 77 secuencias de salmonella.
 
 
-http://metagenomics.anl.gov/mgmain.html?mgpage=analysis
-http://metagenomics.anl.gov/mgmain.html?mgpage=overview&metagenome=mgm4441593.3#sampledata
-http://metagenomics.anl.gov/mgmain.html?mgpage=project&project=mgp27
